@@ -1,7 +1,7 @@
 # counter-app
 This app provides users with the ability to increment, decrement, and reset a counter value
 
-## Language used
+## Technologies Used
 * HTMLL
 * CSS
 * JavaScript
